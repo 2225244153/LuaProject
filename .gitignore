@@ -49,6 +49,7 @@ SourceArt/**/*.tga
 # Binary Files
 Binaries/*
 Plugins/**/Binaries/*
+Plugins/*/Binaries/*
 
 # Builds
 Build/*
@@ -69,9 +70,21 @@ Saved/*
 
 # Compiled source files for the engine to use
 Intermediate/*
+Plugins/*/Intermediate/*
 Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
 
-.idea/.idea.Project/.idea/*
+# .idea
+Content/Python/.idea/*
+
+# Rider Environment files
+.idea/
+
+# Unlua
+#!Plugins/Unlua/Source/UnluaDefaultParamCollectorUbtPlugin/*
+#!Plugins/Unlua/Source/**/*.lib
+#!Plugins/Unlua/Source/**/*.dll
+#Plugins/Unlua/Source/UnluaDefaultParamCollectorUbtPlugin/obj/*
+#Plugins/Unlua/Source/UnluaDefaultParamCollectorUbtPlugin/UnLuaDefaultParamCollectorUbtPlugin.ubtplugin.csproj.props
