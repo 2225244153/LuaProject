@@ -11,7 +11,7 @@ public class Project : ModuleRules
 		PublicDependencyModuleNames.AddRange(new string[] 
 		{
 			"Core", "CoreUObject", "Engine", "InputCore"
-			,"UMG", "Slate", "SlateCore",
+			,"UMG", "Slate", "SlateCore", "Project"
 		});
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
