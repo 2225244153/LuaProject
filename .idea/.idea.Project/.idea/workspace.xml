@@ -15,14 +15,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0c081339-2ac1-4914-be7c-4ccb2b6e7902" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/A_Game/Framework/BP_LuaHUD.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/A_Game/Framework/BP_LuaHUD.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/A_Game/Maps/DefaultMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/A_Game/Maps/DefaultMap.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/A_Game/UMG/Common/WBP_Common_Text_Blueprint.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/A_Game/UMG/Common/WBP_Common_Text_Blueprint.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/A_Game/UMG/WBP_MainUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/A_Game/UMG/WBP_MainUI.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/Project.uproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Project/Private/UMG/Common/CommonTextCpp.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Project/Private/UMG/Common/CommonTextCpp.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Project/Project.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Project/Project.Build.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Project/Public/UMG/Common/CommonTextCpp.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Project/Public/UMG/Common/CommonTextCpp.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,43 +29,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="cidr-memory-view://6" root0="FORCE_HIGHLIGHTING" />
+    <setting file="cidr-memory-view://1" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.3/Engine/Intermediate/Build/Win64/x64/UnrealEditor/Development/RHICore/Definitions.RHICore.h" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.3/Engine/Plugins/Experimental/UIFramework/Source/Private/Widgets/UIFCanvasBox.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.3/Engine/Plugins/Runtime/Metasound/Intermediate/Build/Win64/x64/UnrealEditor/Development/MetasoundEditor/Definitions.MetasoundEditor.h" root0="SKIP_HIGHLIGHTING" />
@@ -376,6 +333,8 @@
       <workItem from="1754036229441" duration="5280000" />
       <workItem from="1754359753407" duration="7142000" />
       <workItem from="1754372878489" duration="23430000" />
+      <workItem from="1754620088947" duration="1159000" />
+      <workItem from="1754642504433" duration="86000" />
     </task>
     <servers />
   </component>
