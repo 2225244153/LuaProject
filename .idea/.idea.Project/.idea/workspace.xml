@@ -15,7 +15,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0c081339-2ac1-4914-be7c-4ccb2b6e7902" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/A_Game/UMG/WBP_MainUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/A_Game/UMG/WBP_MainUI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultGame.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultGame.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/Project.sln.DotSettings.user" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +30,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="cidr-memory-view://1" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/ucrt/corecrt_io.h" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/ucrt/stdio.h" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/um/WS2tcpip.h" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/um/WinSock2.h" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/um/winsock.h" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.3/Engine/Intermediate/Build/Win64/x64/UnrealEditor/Development/RHICore/Definitions.RHICore.h" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../UE/UE_5.3/Engine/Plugins/Experimental/Mutable/Source/MutableTools/Private/MuT/Platform.h" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.3/Engine/Plugins/Experimental/UIFramework/Source/Private/Widgets/UIFCanvasBox.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../UE/UE_5.3/Engine/Plugins/Marketplace/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/file_helper-inl.h" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../UE/UE_5.3/Engine/Plugins/Marketplace/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/os-inl.h" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../UE/UE_5.3/Engine/Plugins/Marketplace/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/os.h" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../UE/UE_5.3/Engine/Plugins/Marketplace/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/tcp_client.h" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../UE/UE_5.3/Engine/Plugins/Media/ImgMedia/Source/ExrReaderGpu/Private/ExrReaderGpu.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../UE/UE_5.3/Engine/Plugins/Runtime/GeometryProcessing/Source/GeometryAlgorithms/Private/ThirdParty/xatlas/xatlas.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.3/Engine/Plugins/Runtime/Metasound/Intermediate/Build/Win64/x64/UnrealEditor/Development/MetasoundEditor/Definitions.MetasoundEditor.h" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.3/Engine/Plugins/Runtime/Metasound/Intermediate/Build/Win64/x64/UnrealEditor/Development/MetasoundEngine/Definitions.MetasoundEngine.h" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.3/Engine/Plugins/Runtime/Metasound/Intermediate/Build/Win64/x64/UnrealEditor/Development/MetasoundEngineTest/Definitions.MetasoundEngineTest.h" root0="SKIP_HIGHLIGHTING" />
@@ -52,6 +64,8 @@
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.3/Engine/Source/Developer/DrawPrimitiveDebugger/Private/SDrawPrimitiveDebugger.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.3/Engine/Source/Developer/LogVisualizer/Private/SVisualLoggerReport.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.3/Engine/Source/Developer/LogVisualizer/Private/VisualLoggerTimeSliderController.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../UE/UE_5.3/Engine/Source/Developer/LowLevelTestsRunner/Private/CommandLineUtil.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../UE/UE_5.3/Engine/Source/Developer/MeshSimplifier/Private/MeshSimplify.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.3/Engine/Source/Developer/Profiler/Private/Widgets/SFiltersAndPresets.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.3/Engine/Source/Developer/Profiler/Private/Widgets/SHistogram.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.3/Engine/Source/Developer/Profiler/Private/Widgets/SProfilerMiniView.cpp" root0="FORCE_HIGHLIGHTING" />
@@ -149,6 +163,7 @@
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.3/Engine/Source/ThirdParty/NVIDIA/Rivermax/RivermaxLib.build.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.3/Engine/Source/ThirdParty/Windows/VisualStudioDTE/VisualStudioDTE.Build.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.3/Engine/Source/ThirdParty/Windows/XInput/XInput.Build.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Plugins/UnLua/Source/ThirdParty/Lua/lua-5.4.4/src/liolib.c" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://E:/UnrealEngine-5.3.2-release/Engine/Source/Runtime/UMG/Public/Blueprint/UserWidget.h" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
@@ -335,6 +350,9 @@
       <workItem from="1754372878489" duration="23430000" />
       <workItem from="1754620088947" duration="1159000" />
       <workItem from="1754642504433" duration="86000" />
+      <workItem from="1754878734932" duration="1734000" />
+      <workItem from="1754882940694" duration="144000" />
+      <workItem from="1754883381307" duration="121000" />
     </task>
     <servers />
   </component>
