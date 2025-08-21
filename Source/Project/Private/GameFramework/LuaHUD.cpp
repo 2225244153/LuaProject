@@ -3,7 +3,8 @@
 
 #include "GameFramework/LuaHUD.h"
 
-#include "UMG/MainUIWidget.h"
+
+#include "UMG/Main/MainUserWidget.h"
 
 /*ALuaHUD::ALuaHUD()
 {
@@ -16,11 +17,11 @@ void ALuaHUD::BeginPlay()
 	
 	GetOwningPlayerController()->SetShowMouseCursor(true);
 	
-	 TSubclassOf<UMainUIWidget>MainUIClass  = LoadClass<UMainUIWidget>(nullptr,
-	 	TEXT("/Script/UMGEditor.WidgetBlueprint'/Game/A_Game/UMG/WBP_MainUI.WBP_MainUI_C'"));
+	 TSubclassOf<UMainUserWidget>MainUIClass  = LoadClass<UMainUserWidget>(nullptr,
+	 	TEXT("/Script/UMGEditor.WidgetBlueprint'/Game/A_Game/UMG/MainUI/WBP_MainUI.WBP_MainUI_C'"));
 	if (MainUIClass)
 	{
-		MainUIWidget = CreateWidget<UMainUIWidget>(GetOwningPlayerController(), MainUIClass);
+		MainUIWidget = CreateWidget<UMainUserWidget>(GetOwningPlayerController(), MainUIClass);
 		MainUIWidget->AddToViewport();
 		//MainUIWidget->AddToPlayerScreen(0)
 	}

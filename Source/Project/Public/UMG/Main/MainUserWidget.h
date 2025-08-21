@@ -4,13 +4,13 @@
 
 #include "CoreMinimal.h"
 #include "Blueprint/UserWidget.h"
-#include "TestUserWidget.generated.h"
+#include "MainUserWidget.generated.h"
 
 /**
  * 
  */
 UCLASS()
-class PROJECT_API UTestUserWidget : public UUserWidget
+class PROJECT_API UMainUserWidget : public UUserWidget
 {
 	GENERATED_BODY()
 	

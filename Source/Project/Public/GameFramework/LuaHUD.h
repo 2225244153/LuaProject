@@ -6,7 +6,7 @@
 #include "GameFramework/HUD.h"
 #include "LuaHUD.generated.h"
 
-class UMainUIWidget;
+class UMainUserWidget;
 /**
  * 
  */
@@ -23,6 +23,6 @@ virtual void BeginPlay() override;
 
 public:
 	UPROPERTY()
-	UMainUIWidget* MainUIWidget;
+	UMainUserWidget* MainUIWidget;
 	
 };
