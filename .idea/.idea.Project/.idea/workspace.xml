@@ -14,27 +14,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c081339-2ac1-4914-be7c-4ccb2b6e7902" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/A_Game/Blueprints/BP_TestActor.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/A_Game/Maps/DefaultMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/A_Game/Maps/DefaultMap.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/A_Game/UMG/Login/WBP_Login_LoginInput.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/A_Game/UMG/Login/WBP_Login_LoginMain.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/A_Game/UMG/Test/WBP_Test1.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/A_Game/UMG/Test/WBP_Test2.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Project/Private/GameFramework/LuaHUD.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Project/Private/GameFramework/LuaHUD.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Project/Private/UMG/Login/LoginInputUserWidget.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Project/Private/UMG/Login/LoginUserWidget.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Project/Private/UMG/MainUIWidget.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Project/Private/UMG/TestUMG/ScrollBoxIntoViewUserWidget.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Project/Private/UMG/TestUMG/TestItemUserWidget.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Project/Private/UMG/TestUMG/TestUserWidget.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Project/Public/GameFramework/LuaHUD.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Project/Public/GameFramework/LuaHUD.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Project/Public/UMG/MainUIWidget.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Project/Public/UMG/TestUMG/ScrollBoxIntoViewUserWidget.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Project/Public/UMG/TestUMG/TestItemUserWidget.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Project/Public/UMG/TestUMG/TestUserWidget.h" beforeDir="false" />
-    </list>
+    <list default="true" id="0c081339-2ac1-4914-be7c-4ccb2b6e7902" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +27,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="cidr-memory-view://0" root0="FORCE_HIGHLIGHTING" />
+    <setting file="cidr-memory-view://1" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/Project/Private/UMG/Main/MainUserWidget.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/Project/Public/UMG/Main/MainUserWidget.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://E:/UE/UE_5.3/Engine/Plugins/Editor/ConsoleVariablesEditor/Source/ConsoleVariablesEditor/Private/Views/List/SConsoleVariablesEditorList.cpp" root0="SKIP_HIGHLIGHTING" />
@@ -267,7 +247,7 @@
       <workItem from="1755248578629" duration="41000" />
       <workItem from="1755248643550" duration="4849000" />
       <workItem from="1755766688866" duration="137000" />
-      <workItem from="1755766853937" duration="1564000" />
+      <workItem from="1755766853937" duration="2019000" />
     </task>
     <servers />
   </component>
