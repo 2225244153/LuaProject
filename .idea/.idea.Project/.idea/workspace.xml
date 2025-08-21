@@ -14,7 +14,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c081339-2ac1-4914-be7c-4ccb2b6e7902" name="Changes" comment="" />
+    <list default="true" id="0c081339-2ac1-4914-be7c-4ccb2b6e7902" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/A_Game/UMG/Object/BP_TestWidgetOject.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/Project.uproject" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,18 +31,40 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="cidr-memory-view://1" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="cidr-memory-view://3" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/Project/Private/UMG/List/ListItemWidget.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/Project/Private/UMG/List/ListWidget.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/Project/Private/UMG/Main/MainUserWidget.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/Project/Private/UMG/Object/TestListViewObject.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/Project/Public/UMG/List/ListItemWidget.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/Project/Public/UMG/List/ListWidget.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/Project/Public/UMG/Main/MainUserWidget.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/Project/Public/UMG/Object/TestListViewObject.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://E:/UE/UE_5.3/Engine/Plugins/Editor/ConsoleVariablesEditor/Source/ConsoleVariablesEditor/Private/Views/List/SConsoleVariablesEditorList.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://E:/UE/UE_5.3/Engine/Plugins/Messaging/UdpMessaging/Source/UdpMessaging/Private/Transport/UdpMessageSegmenter.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://E:/UE/UE_5.3/Engine/Source/Editor/BlueprintGraph/Classes/K2Node_AddComponentByClass.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/UE/UE_5.3/Engine/Source/Editor/BlueprintGraph/Classes/K2Node_ConstructObjectFromClass.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/UE/UE_5.3/Engine/Source/Editor/BlueprintGraph/Classes/K2Node_SpawnActorFromClass.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/UE/UE_5.3/Engine/Source/Editor/BlueprintGraph/Private/K2Node_ConstructObjectFromClass.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/UE/UE_5.3/Engine/Source/Editor/UMGEditor/Private/Nodes/K2Node_CreateWidget.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/UE/UE_5.3/Engine/Source/Programs/AutomationTool/AutomationTool.csproj" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/UE/UE_5.3/Engine/Source/Programs/AutomationTool/AutomationUtils/ProcessUtils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/UE/UE_5.3/Engine/Source/Programs/AutomationTool/Gauntlet/Gauntlet.Automation.csproj" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/UE/UE_5.3/Engine/Source/Programs/UnrealBuildTool/UnrealBuildTool.csproj" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://E:/UE/UE_5.3/Engine/Source/Runtime/AppFramework/Private/Framework/Testing/STableViewTesting.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://E:/UE/UE_5.3/Engine/Source/Runtime/Core/Public/Containers/List.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/UE/UE_5.3/Engine/Source/Runtime/GameplayTags/Classes/GameplayTagContainer.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://E:/UE/UE_5.3/Engine/Source/Runtime/Slate/Private/Widgets/Layout/SScrollBox.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://E:/UE/UE_5.3/Engine/Source/Runtime/Slate/Private/Widgets/Views/STableViewBase.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://E:/UE/UE_5.3/Engine/Source/Runtime/Slate/Public/Widgets/Layout/SScrollBox.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://E:/UE/UE_5.3/Engine/Source/Runtime/Slate/Public/Widgets/Views/SListView.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/UE/UE_5.3/Engine/Source/Runtime/Slate/Public/Widgets/Views/STableViewBase.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://E:/UE/UE_5.3/Engine/Source/Runtime/UMG/Private/Components/ListView.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/UE/UE_5.3/Engine/Source/Runtime/UMG/Private/Components/ListViewBase.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://E:/UE/UE_5.3/Engine/Source/Runtime/UMG/Private/Components/ScrollBox.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://E:/UE/UE_5.3/Engine/Source/Runtime/UMG/Private/Slate/SObjectWidget.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://E:/UE/UE_5.3/Engine/Source/Runtime/UMG/Public/Components/ListView.h" root0="FORCE_HIGHLIGHTING" />
@@ -247,7 +273,7 @@
       <workItem from="1755248578629" duration="41000" />
       <workItem from="1755248643550" duration="4849000" />
       <workItem from="1755766688866" duration="137000" />
-      <workItem from="1755766853937" duration="2019000" />
+      <workItem from="1755766853937" duration="5951000" />
     </task>
     <servers />
   </component>
