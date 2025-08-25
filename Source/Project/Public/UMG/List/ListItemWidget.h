@@ -26,6 +26,8 @@ protected:
 	void ButtonClick();
 
 	virtual void NativeOnListItemObjectSet(UObject* ListItemObject) override;
+
+	void SetSelectedState(bool bSelected);
 public:
 
 	UPROPERTY(meta = (BindWidget))
@@ -39,6 +41,8 @@ public:
 
 	UPROPERTY()
 	UListWidget* OwnerWidget;
+
+
 
 	
 	

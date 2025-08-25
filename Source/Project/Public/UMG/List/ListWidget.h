@@ -6,6 +6,7 @@
 #include "Blueprint/UserWidget.h"
 #include "ListWidget.generated.h"
 
+class UListItemWidget;
 class UTestListViewObject;
 class UListView;
 class URetainerBox;
@@ -20,6 +21,17 @@ class PROJECT_API UListWidget : public UUserWidget
 protected:
 
 	virtual void NativePreConstruct() override;
+
+	virtual void NativeOnInitialized() override;
+	
+	void OnListViewScrolled(float X, float Arg);
+	
+	void OnEntryWidgetGenerated(UUserWidget* UserWidget);
+	
+	void OnEntryWidgetReleased(UUserWidget& UserWidget);
+
+	UPROPERTY()
+	UListItemWidget* ListItemWidget;
 	
 public:
 
@@ -29,9 +41,19 @@ public:
 	UPROPERTY(meta = (BindWidget))
 	UListView* MainListView;
 
+	UPROPERTY()
+	int32 SelectedIndex = 0;
+
+	UFUNCTION(BlueprintCallable)
 	void SetListViewData();
 	
 	UPROPERTY(BlueprintReadWrite,EditAnywhere)
 	TArray<UTexture2D*> ListTextures;
+
+	void RefreshList(int32 Index);
+
+	void ChangeSelectedState(int32 OldIndex,int32 NewIndex);
+
+	
 	
 };

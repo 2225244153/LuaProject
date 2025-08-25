@@ -17,7 +17,7 @@ void UListItemWidget::NativeOnInitialized()
 
 void UListItemWidget::ButtonClick()
 {
-	
+	OwnerWidget->RefreshList(Index);
 }
 
 void UListItemWidget::NativeOnListItemObjectSet(UObject* ListItemObject)
@@ -30,5 +30,20 @@ void UListItemWidget::NativeOnListItemObjectSet(UObject* ListItemObject)
 		ListItemImage->SetBrushFromTexture(TestListViewObject->Image);
 		Index = TestListViewObject->Index;
 		OwnerWidget = Cast<UListWidget>(TestListViewObject->OwnerWidget);
+		SetSelectedState(TestListViewObject->bSelected);
 	}
 }
+
+void UListItemWidget::SetSelectedState(bool bSelected)
+{
+	if (bSelected)
+	{
+		ListItemImage->SetColorAndOpacity(FLinearColor::Black);
+	}
+	else
+	{
+		ListItemImage->SetColorAndOpacity(FLinearColor::White);
+	}
+}
+
+

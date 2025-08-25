@@ -24,5 +24,8 @@ public:
 
 	UPROPERTY()
 	UListWidget* OwnerWidget;
+
+	UPROPERTY()
+	bool bSelected;
 	
 };

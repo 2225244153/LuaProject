@@ -6,6 +6,7 @@
 #include "Blueprint/UserWidget.h"
 #include "MainUserWidget.generated.h"
 
+class UListWidget;
 /**
  * 
  */
@@ -13,5 +14,11 @@ UCLASS()
 class PROJECT_API UMainUserWidget : public UUserWidget
 {
 	GENERATED_BODY()
+
+protected:
+
+	virtual void NativeConstruct() override;
+
+public:
 	
 };
