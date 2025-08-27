@@ -11,8 +11,6 @@ void UListWidget::NativePreConstruct()
 	Super::NativePreConstruct();
 	MainListView->SetScrollbarVisibility(ESlateVisibility::Collapsed);
 	MainListView->OnListViewScrolled().AddUObject(this,&UListWidget::OnListViewScrolled);
-	MainListView->OnEntryWidgetGenerated().AddUObject(this,&UListWidget::OnEntryWidgetGenerated);
-	//MainListView->OnEntryWidgetReleased().AddUObject(this,&UListWidget::OnEntryWidgetReleased);
 }
 
 void UListWidget::NativeOnInitialized()
@@ -23,11 +21,6 @@ void UListWidget::NativeOnInitialized()
 void UListWidget::OnListViewScrolled(float Offset, float Arg)
 {
 	
-}
-
-void UListWidget::OnEntryWidgetGenerated(UUserWidget* UserWidget)
-{
-	//ListItemWidget = UserWidget;
 }
 
 void UListWidget::OnEntryWidgetReleased(UUserWidget& UserWidget)

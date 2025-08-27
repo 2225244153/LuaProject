@@ -26,7 +26,6 @@ protected:
 	
 	void OnListViewScrolled(float X, float Arg);
 	
-	void OnEntryWidgetGenerated(UUserWidget* UserWidget);
 	
 	void OnEntryWidgetReleased(UUserWidget& UserWidget);
 

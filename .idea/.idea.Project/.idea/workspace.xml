@@ -16,17 +16,10 @@
   <component name="ChangeListManager">
     <list default="true" id="0c081339-2ac1-4914-be7c-4ccb2b6e7902" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/A_Game/Material/M_Tex_FadeOut.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/A_Game/Material/M_Tex_FadeOut.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/A_Game/UMG/MainUI/WBP_MainUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/A_Game/UMG/MainUI/WBP_MainUI.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/A_Game/UMG/Test/WBP_ListItemWidget.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/A_Game/UMG/Test/WBP_ListItemWidget.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/A_Game/UMG/Test/WBP_ListWidget.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/A_Game/UMG/Test/WBP_ListWidget.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Project/Private/UMG/List/ListItemWidget.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Project/Private/UMG/List/ListItemWidget.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/A_Game/UMG/Common/WBP_Common_Text_Blueprint.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/A_Game/UMG/Common/WBP_Common_Text_Blueprint.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/Project.sln.DotSettings.user" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/Project/Private/UMG/List/ListWidget.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Project/Private/UMG/List/ListWidget.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Project/Private/UMG/Main/MainUserWidget.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Project/Private/UMG/Main/MainUserWidget.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Project/Public/UMG/List/ListItemWidget.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Project/Public/UMG/List/ListItemWidget.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/Project/Public/UMG/List/ListWidget.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Project/Public/UMG/List/ListWidget.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Project/Public/UMG/Main/MainUserWidget.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Project/Public/UMG/Main/MainUserWidget.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Project/Public/UMG/Object/TestListViewObject.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Project/Public/UMG/Object/TestListViewObject.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,34 +35,17 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="cidr-memory-view://0" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/Project/Private/UMG/List/ListItemWidget.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/Project/Private/UMG/List/ListWidget.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/Project/Private/UMG/Main/MainUserWidget.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/Project/Private/UMG/Object/TestListViewObject.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/Project/Private/UMG/Text/LoopTextWidget.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/Project/Public/UMG/List/ListItemWidget.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/Project/Public/UMG/List/ListWidget.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/Project/Public/UMG/Main/MainUserWidget.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/Project/Public/UMG/Object/TestListViewObject.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/Project/Public/UMG/Text/LoopTextWidget.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://E:/UE/UE_5.3/Engine/Plugins/Editor/ConsoleVariablesEditor/Source/ConsoleVariablesEditor/Private/Views/List/SConsoleVariablesEditorList.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://E:/UE/UE_5.3/Engine/Plugins/Messaging/UdpMessaging/Source/UdpMessaging/Private/Transport/UdpMessageSegmenter.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://E:/UE/UE_5.3/Engine/Source/Editor/BlueprintGraph/Classes/K2Node_AddComponentByClass.h" root0="FORCE_HIGHLIGHTING" />
@@ -85,11 +61,15 @@
     <setting file="file://E:/UE/UE_5.3/Engine/Source/Runtime/Core/Public/Containers/List.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://E:/UE/UE_5.3/Engine/Source/Runtime/Core/Public/Delegates/DelegateSignatureImpl.inl" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://E:/UE/UE_5.3/Engine/Source/Runtime/GameplayTags/Classes/GameplayTagContainer.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/UE/UE_5.3/Engine/Source/Runtime/Slate/Private/Widgets/Input/SButton.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://E:/UE/UE_5.3/Engine/Source/Runtime/Slate/Private/Widgets/Layout/SScrollBox.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://E:/UE/UE_5.3/Engine/Source/Runtime/Slate/Private/Widgets/Views/STableViewBase.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/UE/UE_5.3/Engine/Source/Runtime/Slate/Public/Widgets/Input/SButton.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://E:/UE/UE_5.3/Engine/Source/Runtime/Slate/Public/Widgets/Layout/SScrollBox.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://E:/UE/UE_5.3/Engine/Source/Runtime/Slate/Public/Widgets/Views/SListView.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://E:/UE/UE_5.3/Engine/Source/Runtime/Slate/Public/Widgets/Views/STableViewBase.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/UE/UE_5.3/Engine/Source/Runtime/SlateCore/Public/Types/SlateEnums.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/UE/UE_5.3/Engine/Source/Runtime/UMG/Private/Components/Button.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://E:/UE/UE_5.3/Engine/Source/Runtime/UMG/Private/Components/ListView.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://E:/UE/UE_5.3/Engine/Source/Runtime/UMG/Private/Components/ListViewBase.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://E:/UE/UE_5.3/Engine/Source/Runtime/UMG/Private/Components/ScrollBox.cpp" root0="FORCE_HIGHLIGHTING" />
@@ -303,6 +283,7 @@
       <workItem from="1755766688866" duration="137000" />
       <workItem from="1755766853937" duration="6032000" />
       <workItem from="1755826936728" duration="11463000" />
+      <workItem from="1756191171294" duration="6407000" />
     </task>
     <servers />
   </component>
