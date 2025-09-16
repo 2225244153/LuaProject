@@ -32,6 +32,8 @@ void UListItemWidget::NativeOnListItemObjectSet(UObject* ListItemObject)
 		OwnerWidget = Cast<UListWidget>(TestListViewObject->OwnerWidget);
 		SetSelectedState(TestListViewObject->bSelected);
 	}
+
+	UE_LOG(LogTemp, Warning, TEXT("UListItemWidget::NativeOnListItemObjectSet"));
 }
 
 void UListItemWidget::SetSelectedState(bool bSelected)

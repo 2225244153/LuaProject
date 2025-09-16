@@ -34,10 +34,8 @@ protected:
 	
 public:
 
-	UPROPERTY(meta = (BindWidget))
-	URetainerBox* MainRetainerBox;
-
-	UPROPERTY(meta = (BindWidget))
+	
+	UPROPERTY(BlueprintReadWrite,EditAnywhere,meta = (BindWidget))
 	UListView* MainListView;
 
 	UPROPERTY()
